@@ -2,7 +2,7 @@
 
 I've noticed that lots of studies used web-based questionnaires, which are typically used in social psychology. Validity and reliability of web-based questionnaires have been examined. In contrast, studies testing validity and reliability of *web-based cognitive tasks* are few. I've been searching for papers reporting validity or reliability of online cognitive tasks and made the list below. I'd like to update the list to include good papers. So, could you let me know good paper(s) by using Pull requests or Issues functions on GitHub?
 
-Note. A tick shows whether I've red the paper or not. I got to read not-ticked ones!
+Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 
 ## Validity of Web-Based Cognitive Tasks
 - [x] Crump, M. J. C., McDonnell, J. V., & Gureckis, T. M. (2013). Evaluating Amazon’s Mechanical Turk as a Tool for Experimental Behavioral Research. PLoS ONE, 8(3), e57410. [https://doi.org/10.1371/journal.pone.0057410](https://doi.org/10.1371/journal.pone.0057410)

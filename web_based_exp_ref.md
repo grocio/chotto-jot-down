@@ -22,3 +22,5 @@ Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 - [x] Buhrmester, M., Kwang, T., & Gosling, S. D. (2011). Amazon’s Mechanical Turk: A New Source of Inexpensive, Yet High-Quality, Data? Perspectives on Psychological Science, 6(1), 3–5. [https://doi.org/10.1177/1745691610393980](https://doi.org/10.1177/1745691610393980)
 
 - [x] Lourenco, S. F., & Tasimi, A. (2020). No Participant Left Behind: Conducting Science During COVID-19. Trends in Cognitive Sciences, 24(8), 583–584. [https://doi.org/10.1016/j.tics.2020.05.003](https://doi.org/10.1016/j.tics.2020.05.003)
+
+- [ ] Krantz, J. H., & Dalal, R. (2000). Validity of Web-Based Psychological Research. In Psychological Experiments on the Internet (pp. 35–60). Elsevier. [https://doi.org/10.1016/B978-012099980-4/50003-4](https://doi.org/10.1016/B978-012099980-4/50003-4)

@@ -7,7 +7,7 @@ Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 ## Validity of Web-Based Cognitive Tasks
 - [x] Crump, M. J. C., McDonnell, J. V., & Gureckis, T. M. (2013). Evaluating Amazon’s Mechanical Turk as a Tool for Experimental Behavioral Research. PLoS ONE, 8(3), e57410. [https://doi.org/10.1371/journal.pone.0057410](https://doi.org/10.1371/journal.pone.0057410)
 
-- [ ] Germine, L., Nakayama, K., Duchaine, B. C., Chabris, C. F., Chatterjee, G., & Wilmer, J. B. (2012). Is the Web as good as the lab? Comparable performance from Web and lab in cognitive/perceptual experiments. Psychonomic Bulletin & Review, 19(5), 847–857. [https://doi.org/10.3758/s13423-012-0296-9](https://doi.org/10.3758/s13423-012-0296-9)
+- [x] Germine, L., Nakayama, K., Duchaine, B. C., Chabris, C. F., Chatterjee, G., & Wilmer, J. B. (2012). Is the Web as good as the lab? Comparable performance from Web and lab in cognitive/perceptual experiments. Psychonomic Bulletin & Review, 19(5), 847–857. [https://doi.org/10.3758/s13423-012-0296-9](https://doi.org/10.3758/s13423-012-0296-9)
 
 - [x] Morrison, G. E. (2015). Reliability and validity of the NeuroCognitive Performance Test, a web-based neuropsychological assessment. Frontiers in Psychology, 6, 15. [https://doi.org/10.3389/fpsyg.2015.01652](https://doi.org/10.3389/fpsyg.2015.01652)
 

@@ -17,6 +17,8 @@ Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 - [x] Quinlan, P. T., Roodenrys, S., & Miller, L. M. (2017). Serial reconstruction of order and serial recall in verbal short-term memory. Memory & Cognition, 45(7), 1126–1143. [https://doi.org/10.3758/s13421-017-0719-y](https://doi.org/10.3758/s13421-017-0719-y)
 
 ## Other Useful Papers Regarding Web-Based Experiments in General
+- [ ] Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2020). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. Behavior Research Methods, 1-19. [https://doi.org/10.3758/s13428-020-01501-5](https://doi.org/10.3758/s13428-020-01501-5)
+
 - [ ] Stewart, N., Chandler, J., & Paolacci, G. (2017). Crowdsourcing Samples in Cognitive Science. Trends in Cognitive Sciences, 21(10), 736–748. [https://doi.org/10.1016/j.tics.2017.06.007](https://doi.org/10.1016/j.tics.2017.06.007)
 
 - [x] Buhrmester, M., Kwang, T., & Gosling, S. D. (2011). Amazon’s Mechanical Turk: A New Source of Inexpensive, Yet High-Quality, Data? Perspectives on Psychological Science, 6(1), 3–5. [https://doi.org/10.1177/1745691610393980](https://doi.org/10.1177/1745691610393980)

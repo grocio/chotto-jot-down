@@ -7,7 +7,6 @@ Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 ## Validity of Web-Based Cognitive Tasks
 - [ ] Semmelmann, K., & Weigelt, S. (2017). Online psychophysics: Reaction time effects in cognitive experiments. Behavior Research Methods, 49(4), 1241-1260. [https://doi.org/10.3758/s13428-016-0783-4](https://doi.org/10.3758/s13428-016-0783-4)
 
-
 - [x] Crump, M. J. C., McDonnell, J. V., & Gureckis, T. M. (2013). Evaluating Amazon’s Mechanical Turk as a Tool for Experimental Behavioral Research. PLoS ONE, 8(3), e57410. [https://doi.org/10.1371/journal.pone.0057410](https://doi.org/10.1371/journal.pone.0057410)
 
 - [x] Germine, L., Nakayama, K., Duchaine, B. C., Chabris, C. F., Chatterjee, G., & Wilmer, J. B. (2012). Is the Web as good as the lab? Comparable performance from Web and lab in cognitive/perceptual experiments. Psychonomic Bulletin & Review, 19(5), 847–857. [https://doi.org/10.3758/s13423-012-0296-9](https://doi.org/10.3758/s13423-012-0296-9)
@@ -18,6 +17,8 @@ Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 - [x] Chubala, C. M., Guitard, D., Neath, I., Saint-Aubin, J., & Surprenant, A. M. (2019). Visual similarity effects in immediate serial recall and (sometimes) in immediate serial recognition. Memory & Cognition. [https://doi.org/10.3758/s13421-019-00979-5](https://doi.org/10.3758/s13421-019-00979-5)
 
 - [x] Quinlan, P. T., Roodenrys, S., & Miller, L. M. (2017). Serial reconstruction of order and serial recall in verbal short-term memory. Memory & Cognition, 45(7), 1126–1143. [https://doi.org/10.3758/s13421-017-0719-y](https://doi.org/10.3758/s13421-017-0719-y)
+
+- [x] Loaiza, V. M., & Camos, V. (2018). The role of semantic representations in verbal working memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(6), 863. [https://doi.org/10.1037/xlm0000475](https://doi.org/10.1037/xlm0000475)
 
 ## Other Useful Papers Regarding Web-Based Experiments in General
 - [ ] Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2020). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. Behavior Research Methods, 1-19. [https://doi.org/10.3758/s13428-020-01501-5](https://doi.org/10.3758/s13428-020-01501-5)

@@ -5,6 +5,9 @@ I've noticed that lots of studies used web-based questionnaires, which are typic
 Note. A tick shows that I've red the paper. I got to read not-ticked ones!
 
 ## Validity of Web-Based Cognitive Tasks
+- [ ] Semmelmann, K., & Weigelt, S. (2017). Online psychophysics: Reaction time effects in cognitive experiments. Behavior Research Methods, 49(4), 1241-1260. [https://doi.org/10.3758/s13428-016-0783-4](https://doi.org/10.3758/s13428-016-0783-4)
+
+
 - [x] Crump, M. J. C., McDonnell, J. V., & Gureckis, T. M. (2013). Evaluating Amazon’s Mechanical Turk as a Tool for Experimental Behavioral Research. PLoS ONE, 8(3), e57410. [https://doi.org/10.1371/journal.pone.0057410](https://doi.org/10.1371/journal.pone.0057410)
 
 - [x] Germine, L., Nakayama, K., Duchaine, B. C., Chabris, C. F., Chatterjee, G., & Wilmer, J. B. (2012). Is the Web as good as the lab? Comparable performance from Web and lab in cognitive/perceptual experiments. Psychonomic Bulletin & Review, 19(5), 847–857. [https://doi.org/10.3758/s13423-012-0296-9](https://doi.org/10.3758/s13423-012-0296-9)

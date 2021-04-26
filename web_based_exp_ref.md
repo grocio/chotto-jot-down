@@ -2,7 +2,7 @@
 
 I've noticed that lots of studies used web-based questionnaires, which are typically used in social psychology. Validity and reliability of web-based questionnaires have been examined. In contrast, studies testing validity and reliability of *web-based cognitive tasks* are few. I've been searching for papers reporting validity or reliability of online cognitive tasks and made the list below. I'd like to update the list to include good papers. So, could you let me know good paper(s) by using Pull requests or Issues functions on GitHub?
 
-Note. A tick shows that I've red the paper. I got to read not-ticked ones!
+Note. A tick shows that I've read the paper. I got to read not-ticked ones!
 
 ## Validity of Web-Based Cognitive Tasks
 - [ ] Semmelmann, K., & Weigelt, S. (2017). Online psychophysics: Reaction time effects in cognitive experiments. Behavior Research Methods, 49(4), 1241-1260. [https://doi.org/10.3758/s13428-016-0783-4](https://doi.org/10.3758/s13428-016-0783-4)

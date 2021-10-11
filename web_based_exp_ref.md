@@ -5,7 +5,6 @@ I've noticed that lots of studies used web-based questionnaires, which are typic
 Note. A tick shows that I've read the paper. I got to read not-ticked ones!
 
 ## Validity of Web-Based Cognitive Tasks
-- [ ] Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2021). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. Behavior Research Methods, 53(4), 1407-1425. [https://doi.org/10.3758/s13428-020-01501-5](https://doi.org/10.3758/s13428-020-01501-5)
 
 - [ ] Semmelmann, K., & Weigelt, S. (2017). Online psychophysics: Reaction time effects in cognitive experiments. Behavior Research Methods, 49(4), 1241-1260. [https://doi.org/10.3758/s13428-016-0783-4](https://doi.org/10.3758/s13428-016-0783-4)
 
@@ -23,6 +22,8 @@ Note. A tick shows that I've read the paper. I got to read not-ticked ones!
 - [x] Loaiza, V. M., & Camos, V. (2018). The role of semantic representations in verbal working memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(6), 863. [https://doi.org/10.1037/xlm0000475](https://doi.org/10.1037/xlm0000475)
 
 ## Other Useful Papers Regarding Web-Based Experiments in General
+- [ ] Reips, U. D. (2002). Standards for Internet-based experimenting. Experimental psychology, 49(4), 243. [https://doi.org/10.1026/1618-3169.49.4.243](https://doi.org/10.1026/1618-3169.49.4.243)
+
 - [ ] Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2020). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. Behavior Research Methods, 1-19. [https://doi.org/10.3758/s13428-020-01501-5](https://doi.org/10.3758/s13428-020-01501-5)
 
 - [ ] Stewart, N., Chandler, J., & Paolacci, G. (2017). Crowdsourcing Samples in Cognitive Science. Trends in Cognitive Sciences, 21(10), 736–748. [https://doi.org/10.1016/j.tics.2017.06.007](https://doi.org/10.1016/j.tics.2017.06.007)

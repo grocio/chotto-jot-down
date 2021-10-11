@@ -22,6 +22,8 @@ Note. A tick shows that I've read the paper. I got to read not-ticked ones!
 - [x] Loaiza, V. M., & Camos, V. (2018). The role of semantic representations in verbal working memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(6), 863. [https://doi.org/10.1037/xlm0000475](https://doi.org/10.1037/xlm0000475)
 
 ## Other Useful Papers Regarding Web-Based Experiments in General
+- [ ] Bridges, D., Pitiot, A., MacAskill, M. R., & Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. [https://doi.org/10.7717/peerj.9414](https://doi.org/10.7717/peerj.9414)
+
 - [ ] Reips, U. D. (2002). Standards for Internet-based experimenting. Experimental psychology, 49(4), 243. [https://doi.org/10.1026/1618-3169.49.4.243](https://doi.org/10.1026/1618-3169.49.4.243)
 
 - [ ] Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2020). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. Behavior Research Methods, 1-19. [https://doi.org/10.3758/s13428-020-01501-5](https://doi.org/10.3758/s13428-020-01501-5)
